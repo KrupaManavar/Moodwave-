@@ -1,0 +1,472 @@
+{
+  "happy": [
+    {
+      "id": "J2X5mJ3HDYE",
+      "name": "Invincible",
+      "artists": "Deaf Kev",
+      "image": "https://img.youtube.com/vi/J2X5mJ3HDYE/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "VtKbiyyVZks",
+      "name": "Cloud 9",
+      "artists": "Itro & Tobu",
+      "image": "https://img.youtube.com/vi/VtKbiyyVZks/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "n4tK7LYFxI0",
+      "name": "Shine",
+      "artists": "Spektrem",
+      "image": "https://img.youtube.com/vi/n4tK7LYFxI0/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "EP625xQIGzs",
+      "name": "Hope",
+      "artists": "Tobu",
+      "image": "https://img.youtube.com/vi/EP625xQIGzs/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "bM7SZ5SBzyY",
+      "name": "Fade",
+      "artists": "Alan Walker",
+      "image": "https://img.youtube.com/vi/bM7SZ5SBzyY/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "1vydNigL_k4",
+      "name": "Happy",
+      "artists": "Pharrell Williams Mock",
+      "image": "https://img.youtube.com/vi/1vydNigL_k4/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "ru0K8uYEZWw",
+      "name": "Can't Stop the Feeling",
+      "artists": "Justin Timberlake Mock",
+      "image": "https://img.youtube.com/vi/ru0K8uYEZWw/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "y6Sxv-sUYtM",
+      "name": "Happy Hits",
+      "artists": "Sunny Days",
+      "image": "https://img.youtube.com/vi/y6Sxv-sUYtM/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "XbGs_qK2PQA",
+      "name": "Lose Yourself to Dance",
+      "artists": "Daft Punk Mock",
+      "image": "https://img.youtube.com/vi/XbGs_qK2PQA/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    }
+  ],
+  "sad": [
+    {
+      "id": "p7ZsBPK656s",
+      "name": "Blank",
+      "artists": "Disfigure",
+      "image": "https://img.youtube.com/vi/p7ZsBPK656s/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "K4DyBUG242c",
+      "name": "On & On",
+      "artists": "Cartoon",
+      "image": "https://img.youtube.com/vi/K4DyBUG242c/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "3nQNiWdeH2Q",
+      "name": "Heroes Tonight",
+      "artists": "Janji",
+      "image": "https://img.youtube.com/vi/3nQNiWdeH2Q/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "KBtk5FUeJce",
+      "name": "Cradles",
+      "artists": "Sub Urban",
+      "image": "https://img.youtube.com/vi/KBtk5FUeJce/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "RgKAFK5djSk",
+      "name": "See You Again",
+      "artists": "Wiz Khalifa Mock",
+      "image": "https://img.youtube.com/vi/RgKAFK5djSk/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "4N3N1MlvVc4",
+      "name": "Mad World",
+      "artists": "Gary Jules Mock",
+      "image": "https://img.youtube.com/vi/4N3N1MlvVc4/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "hLQl3WQQoQ0",
+      "name": "Someone Like You",
+      "artists": "Adele Mock",
+      "image": "https://img.youtube.com/vi/hLQl3WQQoQ0/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "YQHsXMglC9A",
+      "name": "Hello",
+      "artists": "Adele Mock",
+      "image": "https://img.youtube.com/vi/YQHsXMglC9A/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    }
+  ],
+  "angry": [
+    {
+      "id": "yJg-Y5byMMw",
+      "name": "Mortals",
+      "artists": "Warriyo",
+      "image": "https://img.youtube.com/vi/yJg-Y5byMMw/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "TW9d8vYrVFQ",
+      "name": "Sky High",
+      "artists": "Elektronomia",
+      "image": "https://img.youtube.com/vi/TW9d8vYrVFQ/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "6FNHe3kf8_s",
+      "name": "Nekozilla",
+      "artists": "Different Heaven",
+      "image": "https://img.youtube.com/vi/6FNHe3kf8_s/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "2pBIfB24JvU",
+      "name": "Labyrinth",
+      "artists": "Rameses B",
+      "image": "https://img.youtube.com/vi/2pBIfB24JvU/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "v2AC41dglnM",
+      "name": "Thunderstruck",
+      "artists": "AC/DC Mock",
+      "image": "https://img.youtube.com/vi/v2AC41dglnM/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "1w7OgIMMRc4",
+      "name": "Sweet Child O' Mine",
+      "artists": "Guns N' Roses Mock",
+      "image": "https://img.youtube.com/vi/1w7OgIMMRc4/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "RvnkAtWcKYg",
+      "name": "Smells Like Teen Spirit",
+      "artists": "Nirvana Mock",
+      "image": "https://img.youtube.com/vi/RvnkAtWcKYg/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "CSvFpBOe8eY",
+      "name": "Chop Suey!",
+      "artists": "System Of A Down Mock",
+      "image": "https://img.youtube.com/vi/CSvFpBOe8eY/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "pAgnJENN4L8",
+      "name": "Back In Black",
+      "artists": "AC/DC Mock",
+      "image": "https://img.youtube.com/vi/pAgnJENN4L8/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    }
+  ],
+  "relaxed": [
+    {
+      "id": "q1ULJ92aldE",
+      "name": "Feel Good",
+      "artists": "Syn Cole",
+      "image": "https://img.youtube.com/vi/q1ULJ92aldE/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "8P1etwIGnzQ",
+      "name": "Dreams",
+      "artists": "Joakim Karud",
+      "image": "https://img.youtube.com/vi/8P1etwIGnzQ/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "4lXBHD5C8do",
+      "name": "Sunburst",
+      "artists": "Tobu & Itro",
+      "image": "https://img.youtube.com/vi/4lXBHD5C8do/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "cNcy3J4x62M",
+      "name": "Limitless",
+      "artists": "Elektronomia",
+      "image": "https://img.youtube.com/vi/cNcy3J4x62M/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "CHekNnySAfM",
+      "name": "Weightless",
+      "artists": "Marconi Union Mock",
+      "image": "https://img.youtube.com/vi/CHekNnySAfM/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "SGK00Q7xx-s",
+      "name": "River Flows in You",
+      "artists": "Yiruma Mock",
+      "image": "https://img.youtube.com/vi/SGK00Q7xx-s/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "GGtKxprpWgI",
+      "name": "Clair de Lune",
+      "artists": "Debussy Mock",
+      "image": "https://img.youtube.com/vi/GGtKxprpWgI/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "b-J-P4Lh-6s",
+      "name": "Fly Me To The Moon",
+      "artists": "Frank Sinatra Mock",
+      "image": "https://img.youtube.com/vi/b-J-P4Lh-6s/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    }
+  ],
+  "fear": [
+    {
+      "id": "cbXoQiXq1-8",
+      "name": "Savior",
+      "artists": "Unknown Brain",
+      "image": "https://img.youtube.com/vi/cbXoQiXq1-8/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "IIrCDAV3EgI",
+      "name": "Horror Theme",
+      "artists": "Myuu",
+      "image": "https://img.youtube.com/vi/IIrCDAV3EgI/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "ptevkD7hDcc",
+      "name": "Supernatural",
+      "artists": "Unknown Brain",
+      "image": "https://img.youtube.com/vi/ptevkD7hDcc/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "lXpXkS6Jk2M",
+      "name": "Dark Ambient",
+      "artists": "Iron Cthulhu Apocalypse",
+      "image": "https://img.youtube.com/vi/lXpXkS6Jk2M/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "hBfF_W5Nn_Y",
+      "name": "Halloween Theme",
+      "artists": "John Carpenter Mock",
+      "image": "https://img.youtube.com/vi/hBfF_W5Nn_Y/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "V4k_128AIfc",
+      "name": "Tubular Bells",
+      "artists": "Mike Oldfield Mock",
+      "image": "https://img.youtube.com/vi/V4k_128AIfc/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "tG0W4D_tO7c",
+      "name": "The Exorcist Theme",
+      "artists": "Mock Theme",
+      "image": "https://img.youtube.com/vi/tG0W4D_tO7c/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "sOnqjkJTMaA",
+      "name": "Psycho Theme",
+      "artists": "Bernard Herrmann Mock",
+      "image": "https://img.youtube.com/vi/sOnqjkJTMaA/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "M7v8wGvHk9k",
+      "name": "Creepy Music Box",
+      "artists": "Myuu Mock",
+      "image": "https://img.youtube.com/vi/M7v8wGvHk9k/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    }
+  ],
+  "neutral": [
+    {
+      "id": "AOeY-nDp7hI",
+      "name": "Spectre",
+      "artists": "Alan Walker",
+      "image": "https://img.youtube.com/vi/AOeY-nDp7hI/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "xshEZzpS4CQ",
+      "name": "Force",
+      "artists": "Alan Walker",
+      "image": "https://img.youtube.com/vi/xshEZzpS4CQ/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "zyXmsVwZqX4",
+      "name": "Why We Lose",
+      "artists": "Cartoon",
+      "image": "https://img.youtube.com/vi/zyXmsVwZqX4/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "__CRWE-L45k",
+      "name": "Symbolism",
+      "artists": "Electro-Light",
+      "image": "https://img.youtube.com/vi/__CRWE-L45k/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "SYM-RJwSGQ8",
+      "name": "Lofi Hip Hop",
+      "artists": "ChilledCow Mock",
+      "image": "https://img.youtube.com/vi/SYM-RJwSGQ8/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "5qap5aO4i9A",
+      "name": "Chill Study Beats",
+      "artists": "Lofi Girl Mock",
+      "image": "https://img.youtube.com/vi/5qap5aO4i9A/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "-5KAN9_CzSA",
+      "name": "Coffee Shop Vibes",
+      "artists": "Lofi Boy Mock",
+      "image": "https://img.youtube.com/vi/-5KAN9_CzSA/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    },
+    {
+      "id": "7NOSDKb0HlU",
+      "name": "Chillstep",
+      "artists": "Chill Mock",
+      "image": "https://img.youtube.com/vi/7NOSDKb0HlU/mqdefault.jpg",
+      "duration": "3:30",
+      "album": "MoodWave Collection"
+    }
+  ],
+  "sleeping": [
+    {
+      "id": "J_z796J3O_k",
+      "name": "Surmai Akhiyon Mein (Lori)",
+      "artists": "K.J. Yesudas - Hindi",
+      "image": "https://img.youtube.com/vi/J_z796J3O_k/mqdefault.jpg",
+      "duration": "4:11",
+      "album": "MoodWave Sleep"
+    },
+    {
+      "id": "uX_N6zZfH0Q",
+      "name": "Lalla Lalla Lori",
+      "artists": "Nursery Rhymes - Hindi",
+      "image": "https://img.youtube.com/vi/uX_N6zZfH0Q/mqdefault.jpg",
+      "duration": "2:30",
+      "album": "MoodWave Sleep"
+    },
+    {
+      "id": "y77X5-vM_H0",
+      "name": "Rock-a-bye Baby",
+      "artists": "Lullaby - English",
+      "image": "https://img.youtube.com/vi/y77X5-vM_H0/mqdefault.jpg",
+      "duration": "3:00",
+      "album": "MoodWave Sleep"
+    },
+    {
+      "id": "yCjJyiqpAuU",
+      "name": "Twinkle Twinkle Little Star",
+      "artists": "Lullaby - English",
+      "image": "https://img.youtube.com/vi/yCjJyiqpAuU/mqdefault.jpg",
+      "duration": "2:45",
+      "album": "MoodWave Sleep"
+    },
+    {
+      "id": "Y6-W8h_U-Hk",
+      "name": "Dikri Mari Ladakvayi",
+      "artists": "Halardu - Gujarati",
+      "image": "https://img.youtube.com/vi/Y6-W8h_U-Hk/mqdefault.jpg",
+      "duration": "4:32",
+      "album": "MoodWave Sleep"
+    },
+    {
+      "id": "W4W47-eS78s",
+      "name": "Gujarati Halardu - Sleep Music",
+      "artists": "Traditional - Gujarati",
+      "image": "https://img.youtube.com/vi/W4W47-eS78s/mqdefault.jpg",
+      "duration": "5:15",
+      "album": "MoodWave Sleep"
+    }
+  ]
+}

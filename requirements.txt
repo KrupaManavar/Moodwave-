@@ -1,0 +1,7 @@
+Flask==3.0.0
+requests==2.31.0
+fer==22.5.1
+Pillow==10.1.0
+numpy==1.26.2
+python-dotenv==1.0.0
+ytmusicapi==1.7.0
